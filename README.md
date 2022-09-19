@@ -10,9 +10,9 @@ contact - jaeyunkim@snu.ac.kr
 - Computer Architecture
 - Hardware Acceleration
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kimGreg)](https://github.com/kimGreg)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=ktwin01)](https://solved.ac/ktwin01)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimGreg&layout=compact)](https://github.com/kimGreg)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kimGreg)](https://github.com/kimGreg)
 
 <details>
 
