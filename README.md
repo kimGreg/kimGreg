@@ -25,7 +25,9 @@ contact - jaeyunkim@snu.ac.kr
 [Gyeongsan Science High School](http://school.gyo6.net/gsshs), student (2019.3 - 2021.2)
 
 ### 🏆 Achievements
-
+  
+[UCPC 2022](https://ucpc.me), Final Round, 39th
+ 
 [UCPC 2022](https://ucpc.me), Qualification Round, 38th
 
 [KOI](https://koi.or.kr) 2019, Final Round, Silver Medal
