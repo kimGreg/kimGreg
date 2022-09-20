@@ -30,17 +30,13 @@ contact - jaeyunkim@snu.ac.kr
 
 [KOI](https://koi.or.kr) 2019, Final Round, Silver Medal
 
-[KCF](https://kcf.or.kr) 2018, Final Round, 3rd place
-
-<details>
-
-<summary>More achievements</summary>
-
 [KOI](https://koi.or.kr) 2019, Qualification Round, Silver Medal
+
+[KCF](https://kcf.or.kr) 2018, Final Round, 3rd place
 
 [KOI](https://koi.or.kr) 2018, Final Round, Silver Medal
 
 [KOI](https://koi.or.kr) 2018, Gyeongsangbuk-do Qualification Round, 1st place
-</details>
+
   
 </details>
