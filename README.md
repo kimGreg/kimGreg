@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Kim Jaeyun
 
-studying at [Seoul National University](https://snu.ac.kr) as undergraduate student, major in Dept. of Computer Scient & Engineering.
+[Research Officer for National Defence](https://www.rond.or.kr)
 
 ## 🔎 I'm interested in
 
@@ -18,7 +18,7 @@ studying at [Seoul National University](https://snu.ac.kr) as undergraduate stud
 
 ### 🏆 Achievements
 
-[ROND 9th](https://www.rond.or.kr), Research officers for National Defence candidate (2022 - present)
+[ROND 9th](https://www.rond.or.kr), Research officers for National Defence (2025 - present)
 
 [KOI](https://koi.or.kr) 2019, Final Round, Silver Medal
 
