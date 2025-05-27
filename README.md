@@ -20,7 +20,7 @@ Hi there 👋 I'm Kim Jaeyun
 
 ### 🏆 Achievements
 
-[ROND 9th](https://www.rond.or.kr), Research officers for National Defence (2025 - present)
+[ROND 9th](https://www.rond.or.kr), Research officers for National Defense (2025 - present)
 
 [KOI](https://koi.or.kr) 2019, Final Round, Silver Medal
 
